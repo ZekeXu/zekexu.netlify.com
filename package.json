@@ -1,0 +1,22 @@
+{
+  "name": "zekexu.github.io",
+  "version": "1.0.0",
+  "description": "Posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZekeXu/zekexu.github.io.git"
+  },
+  "keywords": [
+    "Posts"
+  ],
+  "author": "ZekeXu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZekeXu/zekexu.github.io/issues"
+  },
+  "homepage": "https://github.com/ZekeXu/zekexu.github.io#readme"
+}
