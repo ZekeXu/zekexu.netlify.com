@@ -4,7 +4,7 @@ import Link from 'gatsby-link'
 const Header = () => (
   <div
     style={{
-      background: 'rebeccapurple',
+      background: '#334252',
       marginBottom: '1.45rem',
     }}
   >
@@ -15,7 +15,7 @@ const Header = () => (
         padding: '1.45rem 1.0875rem',
       }}
     >
-      <h1 style={{ margin: 0 }}>
+      <h2 style={{ margin: 0, display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end' }}>
         <Link
           to="/"
           style={{
@@ -23,9 +23,11 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          Gatsby
+          前端每周进阶@2018
         </Link>
-      </h1>
+
+        <a href="https://github.com/ZekeXu" style={{color: '#fff', fontSize: '16px'}}>Github</a>
+      </h2>
     </div>
   </div>
 )
