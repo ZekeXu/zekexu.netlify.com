@@ -5,6 +5,7 @@ module.exports = {
     description: "ZekeXu's blogs about development.",
     siteUrl: 'https://zekexu.netlify.com/'
   },
+  pathPrefix: `/zekexu.netlify.com`,
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
