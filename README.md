@@ -1,12 +1,6 @@
-# zekexu.github.io
+# zekexu.netlify.com
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-
-```bash
-gatsby new gatsby-example-site
-```
+> 前端每周进阶知识点总结
 
 ## Deploy
 
