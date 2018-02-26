@@ -5,12 +5,16 @@
       "component---src-pages-index-js-30ccc3b53eabc32492fc.js.map"
     ],
     "path---blog": [
-      "path---blog-815f94abecded26fa92c.js",
-      "path---blog-815f94abecded26fa92c.js.map"
+      "path---blog-8773a62647f4c92d330d.js",
+      "path---blog-8773a62647f4c92d330d.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---blog-weekly-2": [
+      "path---blog-weekly-2-761ecece1bdbfcfd6658.js",
+      "path---blog-weekly-2-761ecece1bdbfcfd6658.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-2e8f89cb1d6320e882b5.js",
@@ -41,13 +45,13 @@
       "component---src-pages-blog-js-5ce38d84b9ca58f895f9.js.map"
     ],
     "path---blog-weekly-1": [
-      "path---blog-weekly-1-ead89197fc6cec8075fa.js",
-      "path---blog-weekly-1-ead89197fc6cec8075fa.js.map"
+      "path---blog-weekly-1-f9419dbec891b669ebdc.js",
+      "path---blog-weekly-1-f9419dbec891b669ebdc.js.map"
     ],
     "app": [
-      "app-1d30270118ade39788b9.js",
+      "app-ef83f8c3c7232714261e.js",
       "build-js-styles.css",
-      "app-1d30270118ade39788b9.js.map",
+      "app-ef83f8c3c7232714261e.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
