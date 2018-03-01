@@ -1,0 +1,9 @@
+:local(.footer) {
+  background-color: rgb(51, 66, 82);
+  padding: 40px;
+}
+
+:local(.imgContainer) {
+  display: flex;
+  justify-content: space-around;
+}
