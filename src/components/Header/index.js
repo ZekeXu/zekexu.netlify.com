@@ -26,7 +26,7 @@ const Header = () => (
           前端每周进阶@2018
         </Link>
 
-        <a href="https://github.com/ZekeXu" style={{color: '#fff', fontSize: '16px'}}>Github</a>
+        {/* <a href="https://github.com/ZekeXu" style={{color: '#fff', fontSize: '16px'}}>Github</a> */}
       </h2>
     </div>
   </div>
