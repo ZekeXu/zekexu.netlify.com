@@ -34,6 +34,11 @@ module.exports = {
       }
     },
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass'
+    {
+      resolve: 'gatsby-plugin-sass',
+      options: {
+        precision: 8
+      }
+    }
   ]
 };

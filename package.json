@@ -16,12 +16,14 @@
     "gatsby-plugin-react-helmet": "^2.0.5",
     "gatsby-plugin-sass": "^1.0.18",
     "gatsby-plugin-sharp": "^1.6.32",
+    "gatsby-plugin-styled-components": "^2.0.9",
     "gatsby-remark-copy-linked-files": "^1.5.27",
     "gatsby-remark-images": "^1.5.48",
     "gatsby-remark-prismjs": "^1.2.15",
     "gatsby-source-filesystem": "^1.5.21",
     "gatsby-transformer-remark": "^1.7.33",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "styled-components": "^3.1.6"
   },
   "devDependencies": {
     "gh-pages": "^1.1.0",
