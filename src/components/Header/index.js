@@ -23,7 +23,7 @@ const Header = () => (
             textDecoration: 'none',
           }}
         >
-          前端每周进阶@2018
+          前端记事
         </Link>
 
         {/* <a href="https://github.com/ZekeXu" style={{color: '#fff', fontSize: '16px'}}>Github</a> */}

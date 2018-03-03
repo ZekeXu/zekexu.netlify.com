@@ -43,6 +43,9 @@ const Footer = () => (
       </figure>
       <ul>
         <li>
+          <a style={{ color: '#fff' }}>ZekeXu</a>
+        </li>
+        <li>
           <a style={{ color: '#fff' }} href="https://github.com/ZekeXu">
             Github
           </a>
