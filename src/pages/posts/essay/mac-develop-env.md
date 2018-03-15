@@ -39,3 +39,11 @@ title: "Mac系统开发环境搭建列表"
     ```bash
     brew install springboot
     ```
+* MySQL <https://dev.mysql.com/downloads/mysql/>
+
+    ```bash
+    # download and installation could prefer this: <https://www.jianshu.com/p/fd3aae701db9>
+
+    # 设置root密码
+    # SET PASSWORD FOR 'root'@'localhost' = PASSWORD('newpass');
+    ```
