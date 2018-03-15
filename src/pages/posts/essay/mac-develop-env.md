@@ -34,7 +34,8 @@ title: "Mac系统开发环境搭建列表"
     ```bash
     brew install gradle
     ```
-* JAVA
+* JAVA <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
+    Refer to <https://www.jianshu.com/p/0036a344509e>
 * Springboot
     ```bash
     brew install springboot
@@ -47,3 +48,8 @@ title: "Mac系统开发环境搭建列表"
     # 设置root密码
     # SET PASSWORD FOR 'root'@'localhost' = PASSWORD('newpass');
     ```
+
+* Hadoop
+* Hue
+* Hive
+* Sqoop
